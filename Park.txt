@@ -1,4 +1,0 @@
-﻿이름 : 박지민
-github 사용자 이름 : jmpark0819
-전공 : 컴퓨터공학부
-Hello World !
