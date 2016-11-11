@@ -1,6 +1,13 @@
-﻿#####4조 박지민, 김범영, 이재영, 김영규
-##대중교통 혼잡도를 이용한 정보 제공 시스템
+﻿#####4조
+- 박지민([jmpark0819][member1])
+- 김범영([tibyte][member2])
+- 이재영([vkv6581][member3])
+- 김영규([younggyu0906][member4])
 
+
+>
+>
+##대중교통 혼잡도를 이용한 정보 제공 시스템
 
 #####대중교통의 **혼잡도**를 활용하여 대중교통을 이용하는데에 도움을 주기 위한 시스템
 
@@ -19,8 +26,8 @@
  - 설문조사 결과 많은 사람들이 **혼잡한 버스** 또는 **버스 운영**에 관해 불만이 많았다.
 불만을 해결하기위하여 대중교통 이용에 도움을 주는 시스템이 필요하다.
 
-
-
+>
+>
 ## 시스템 개요
 ---------
 
@@ -35,8 +42,8 @@
 - **사용자 단말기** : 스마트폰 애플리케이션 형태로, *중앙 서버*로부터 데이터를 전송받아 사용자에게 제공한다.
 
 
-
-
+>
+>
 ## 기존 관련 사례
 -------------
 
@@ -61,3 +68,9 @@
 >![싱가포르](https://github.com/jmpark0819/Design/blob/master/image/My_Transport_Singapore.png?raw=true)
 >
 > [출처 링크](http://www.hankookchon.com/bbs/app/103723)
+
+
+[member1]: https://github.com/jmpark0819
+[member2]: https://github.com/tibyte
+[member3]: https://github.com/vkv6581
+[member4]: https://github.com/younggyu0906
