@@ -38,12 +38,11 @@
 
 ###- *버스 승차 정보 제공 시스템 (삼성중공업 )*
 
->1) 차량 단말기를 사용하여 버스 내부 정보를 생성한다.
->2)  생성된 버스 내부정보에 기초하여 버스 승차 정보를 만든다.
->3) 버스 내부 정보는 중앙 관제 서버에 전달된다.
-
->![버스 정보](https://raw.githubusercontent.com/jmpark0819/Design/master/image/bus_info.png "bus_info")
->[출처 링크](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame)
+> 1) 차량 단말기를 사용하여 버스 내부 정보를 생성한다.
+> 2)  생성된 버스 내부정보에 기초하여 버스 승차 정보를 만든다.
+> 3) 버스 내부 정보는 중앙 관제 서버에 전달된다.
+> ![버스 정보](https://raw.githubusercontent.com/jmpark0819/Design/master/image/bus_info.png "bus_info")
+> [출처 링크](https://patents.google.com/patent/KR20120057195A/ko)
 
 -------------
 
